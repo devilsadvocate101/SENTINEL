@@ -45,7 +45,7 @@ PS: Kiwi Browser has already been archived from the Play Store, but you can find
    - **Kiwi Browser:** Open developer tools from the browser settings.
 4. *(Optional)* Adjust logging settings to show only "logs" or "info."
 5. **Paste & Run Script**:
-   - Copy all the code in [**SENTINEL_V1.0.js**](https://github.com/devilsadvocate101/SENTINEL/blob/main/SENTINEL_V1.0).
+   - Copy all the code in [**SENTINEL_V1.1.js**](https://github.com/devilsadvocate101/SENTINEL/blob/main/SENTINEL_V1.0).
    - On PC, type `allow pasting` and press Enter before pasting the script, then paste the script.
    - On mobile, paste the script in the console and switch back to the main tab.
 6. **Follow the prompts** until the script execution starts.
