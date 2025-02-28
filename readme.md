@@ -17,10 +17,12 @@ Interested in trying another script? [**ARTEMIS**](https://github.com/devilsadvo
 When running the script, you will be prompted for a password.
 Enter: `swordnub`
 
-## **Requirements**
-- **Administrator privileges, private server & channel**.
-- [**Isekaid bot**](https://top.gg/bot/989440183428599849).
-- **Message-purging bot**, by default: [**Nekotina**](https://top.gg/bot/429457053791158281).
+## **Requirements** (Important)
+- **Administrator privileges**.
+- **Private Server**.
+- **Clean Channel**.
+- Invite [**Isekaid bot**](https://top.gg/bot/989440183428599849).
+- Invite **A Message-Purging bot**, by default: [**Nekotina**](https://top.gg/bot/429457053791158281).
 - **One-hit kill character**.
 
 ## **Setup Guide** (Important)
